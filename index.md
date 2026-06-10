@@ -16,10 +16,6 @@ title: Dialogues with the Machine
 <div class="table-of-contents">
   <div class="title"><a href="{{ site.baseurl }}/pages/the_machine_of_humankind_and_humanity">The Machine of Humankind and Humanity</a></div>
   <div class="annotation">
-    Wherein the nature of The Machine is discussed and understood.
-  </div>
-  <div class="title"><a href="{{ site.baseurl }}/pages/human_machines">Human Machines</a></div>
-  <div class="annotation">
-    In this dialogue the line is drawn between the natural logic of human existence and the logic of servitude to The Machine.
+    Wherein the nature of The Machine of Humankind and its interrelationship with Humanity is discussed and understood.
   </div>
 </div>
