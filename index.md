@@ -14,7 +14,7 @@ title: Dialogues with the Machine
   
 </pre>
 <div class="table-of-contents">
-  <div class="title"><a href="{{ site.baseurl }}/pages/the_machine_of_domination">The Machine of domination</a></div>
+  <div class="title"><a href="{{ site.baseurl }}/pages/the_machine_of_humankind_and_humanity">The Machine of Humankind and Humanity</a></div>
   <div class="annotation">
     Wherein the nature of The Machine is discussed and understood.
   </div>
